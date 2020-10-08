@@ -1,7 +1,7 @@
 ---
 title: Mal aufräumen
 date: 2020-04-18T10:07:21.000+06:00
-image: images/blog/post-5.jpg
+image: "/images/blog/post-2.jpg"
 type: regular
 description: This is meta description
 
