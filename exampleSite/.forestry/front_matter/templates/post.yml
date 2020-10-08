@@ -24,5 +24,6 @@ fields:
   name: categories
   label: categories
 pages:
+- exampleSite/content/blog/hallo-welt.md
 - exampleSite/content/english/blog/new-post.md
 - exampleSite/content/english/blog/new-post.md
